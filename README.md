@@ -27,3 +27,13 @@ Ajouter 1 clée de sining et 1 clée de auth.
 Chaque fois que tu veux travailler sur une feature vas dans main et `git pull
 upstream main`. 
 
+### Exemple d'utilisation 
+
+```sh
+# Cloner le projet
+git wc <git@github.com/nom-de-la-repo>
+cd <nom-de-la-repo/main>
+#Création de la branche de développement
+git wnew <nom-de-la-branche>
+```
+
